@@ -14,7 +14,7 @@
 
   ​	Some useful references for you to create your own repository like this.
 
-> Today, we are gathered here to better understand the knowledge of deep learning, and the sharing deserves a  star of support and encouragement for all the "audience"! [^1]
+> 😀Today, we are gathered here to better understand the knowledge of deep learning, and the sharing deserves a  star⭐ of support and encouragement for all the "audience"! [^1]
 
 [^1]:Written by Hunter on 2024/07/14, the follow-up video explanation please search **bilibili**:[昊哥讲物理](https://space.bilibili.com/1159048393?spm_id_from=333.788.0.0)
 
